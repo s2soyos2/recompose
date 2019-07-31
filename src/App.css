@@ -1,0 +1,57 @@
+button{
+  width: 70px;
+  margin:0 6px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+input,p,h4,li{
+  margin: 0 auto ;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+li{
+  margin-top: 4px; 
+}
+h4{
+  margin-top : 15px;
+}
+input{
+  width: 250px;
+  height: 28px;
+  border-radius: 4px;
+}
+.input-edit{
+  width: 100px;
+  height: 18px;
+  border-radius: 3px;
+}
+.buttonX{
+  color: red;
+  width: 25px;
+  background-color: turquoise;
+  position: relative;
+  margin-right: 30px;
+}
+.button-edit{
+  width: 35px;
+  position: relative;
+  margin: 0px;
+  background-color: turquoise;
+}
+.button-save{
+  width: 40px;
+  margin: 0;
+  position: relative;
+  margin-right: 6px;
+}
+.button-cancel{
+  width: 45px;
+  margin: 0;
+  position: relative;
+  margin-right: 30px;
+}
+.item{
+  width: 250px;
+}
